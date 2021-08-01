@@ -1,7 +1,12 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <Authors>Vladyslav Kapliuk, Eugene Romanenko</Authors>
+    <Company>TheFlashScrumTeam</Company>
+    <Description>Nuget package that help you deal with geohash</Description>
+    <RepositoryUrl>https://github.com/Evgentus0/GeohashDistancing</RepositoryUrl>
+    <PackageId>GeohashDistancing</PackageId>
   </PropertyGroup>
 
 </Project>
