@@ -7,6 +7,8 @@
     <Description>Nuget package that help you deal with geohash</Description>
     <RepositoryUrl>https://github.com/Evgentus0/GeohashDistancing</RepositoryUrl>
     <PackageId>GeohashDistancing</PackageId>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
